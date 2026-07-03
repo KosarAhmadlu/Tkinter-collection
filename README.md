@@ -1,7 +1,7 @@
 # Tkinter-collection
 A collection of practical Tkinter desktop applications built with Python and SQLite for learning GUI development.
+
 =======
-# Tkinter Learning Labs
 
 A collection of practical desktop application projects built with **Python**, **Tkinter**, and **SQLite**.
 
